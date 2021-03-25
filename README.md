@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi, everyone.
+I am Dongy, a mathematical modeler and a machine learning researcher.
